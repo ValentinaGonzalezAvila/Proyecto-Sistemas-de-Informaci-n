@@ -45,26 +45,38 @@ Lo siguiente es resolver cada una de las preguntas de la siguiente manera:
 * ¿Cuantos ingresos se presentaron en los ultimos 5 años?
 
 ingresos = datos[datos.AÑO >= 2017].sum()['CANTIDAD_PROCESOS']
-print(ingresos)
+print(f"los ingresos generados en los últimos 5 años fueron: {ingresos}")
+
+![image](https://user-images.githubusercontent.com/82173439/166073470-53a19f9b-bf78-4d94-b545-913e7445899b.png)
 
 * ¿Cuántos ingresos con nacionalidad colombiana y en bogota se tienen en el registro?
 
 nb = len(datos[(datos.NACIONALIDAD == "COLOMBIANO")&(datos.REGIONAL == "BOGOTA")])
-print(nb)
+print(f"los ingresos de Colombianos en Bogotá fueron: {nb}")
+
+![image](https://user-images.githubusercontent.com/82173439/166073680-ffa4394e-540a-452e-82a9-2dce20ca650f.png)
 
 
 * Mostrar las filas que en la columna CANTIDAD_PROCESOS tengan el valor 48
 
 datos[(datos.CANTIDAD_PROCESOS== 48)]
 
+![image](https://user-images.githubusercontent.com/82173439/166073855-6ddde5a9-12fa-473b-9bd3-e39d5b596976.png)
+
+
 * ¿En la regional de Antioquia cuántos niños fueron registrados?
 
 r = datos[(datos.REGIONAL=="ANTIOQUIA")].CANTIDAD_PROCESOS.sum()
-print(r)
+print(f"la cantidad de niños registrados en la región de Antioquia fuerón: {r}")
+
+![image](https://user-images.githubusercontent.com/82173439/166073968-78edca60-c72f-4ff2-a684-fca661de483f.png)
+
 
 * ¿Cuáles son los grupos étnicos que se encuentran en el listado? 
 
 datos.groupby("GRUPO_ETNICO").size()
+
+![image](https://user-images.githubusercontent.com/82173439/166074021-fd632f0a-c06a-437c-9650-217d5577c2a5.png)
 
 
 Luego se realizó un dashboard con la herramienta PowerBI, dando como resultado lo siguiente:
