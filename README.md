@@ -39,6 +39,8 @@ Lo siguiente es resolver cada una de las preguntas de la siguiente manera:
 * Mostrar la estadística de los datos
 
  datos.describe()
+ 
+ ![image](https://user-images.githubusercontent.com/82173439/166072376-56d546ea-0793-4b20-87bc-67448a5f16a2.png)
 
 * ¿Cuantos ingresos se presentaron en los ultimos 5 años?
 
