@@ -13,9 +13,9 @@ A través de un dashboard se realizará un análisis detallado de la base de dat
 Como primera medida se realizarán las preguntas de negocio que tendrán solución con Python y la libreria Pandas.
 
   1. ¿Cuantos ingresos se presentaron en los ultimos 5 años?
-  2.¿Cuántos ingresos con nacionalidad colombiana y en bogota se tienen en el registro?
-  3.Mostrar las filas que en la columna CANTIDAD_PROCESOS tengan el valor 48
-  4.¿En la regional de Antioquia cuántos niños fueron registrados?
+  2. ¿Cuántos ingresos con nacionalidad colombiana y en bogota se tienen en el registro?
+  3. Mostrar las filas que en la columna CANTIDAD_PROCESOS tengan el valor 48
+  4. ¿En la regional de Antioquia cuántos niños fueron registrados?
   5. ¿Cuáles son los grupos étnicos que se encuentran en el listado?
 
 
