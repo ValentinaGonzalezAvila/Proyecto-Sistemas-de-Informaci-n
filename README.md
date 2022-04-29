@@ -60,9 +60,13 @@ datos.groupby("GRUPO_ETNICO").size()
 
 
 Luego se realizó un dashboard con la herramienta PowerBI, dando como resultado lo siguiente:
-![image](https://user-images.githubusercontent.com/82173439/166065541-b5869144-a563-47fe-9dbc-d374d25d8156.png)
 
 ![image](https://user-images.githubusercontent.com/82173439/166065584-c5f19625-0a30-4086-a0c4-dd82bae96b53.png)
+
+
+![image](https://user-images.githubusercontent.com/82173439/166065541-b5869144-a563-47fe-9dbc-d374d25d8156.png)
+
+
 
 ### Análisis 
 
