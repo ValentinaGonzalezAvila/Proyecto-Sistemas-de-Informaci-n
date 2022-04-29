@@ -30,6 +30,10 @@ datos.info()
 
 Lo siguiente es resolver cada una de las preguntas de la siguiente manera:
 
+* Mostrar la estadística de los datos
+
+ datos.describe()
+
 * ¿Cuantos ingresos se presentaron en los ultimos 5 años?
 
 ingresos = datos[datos.AÑO >= 2017].sum()['CANTIDAD_PROCESOS']
