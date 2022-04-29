@@ -17,6 +17,13 @@ Como primera medida se realizarán las <strong>preguntas de negocio</strong> que
   3. Mostrar las filas que en la columna CANTIDAD_PROCESOS tengan el valor 48
   4. ¿En la regional de Antioquia cuántos niños fueron registrados?
   5. ¿Cuáles son los grupos étnicos que se encuentran en el listado?
+
+### 4. Tecnologías a utilizar
+
+
+
+### 5. Solución
+
 A continuación se mostrará la realización del ejercicio con los datos del ICBF, utilizando la plataforma de Google Colaboratory.
 Lo primero que se realizó fue la importación de las librerías Pandas y Numpy, luego importamos los datos subidos en este repositorio
 
