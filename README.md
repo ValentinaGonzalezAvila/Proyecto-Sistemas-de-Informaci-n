@@ -24,33 +24,33 @@ import numpy as np
 import pandas as pd
 
 
-# Obtener el archivo de ingresos
+* Obtener el archivo de ingresos
 datos = pd.read_excel("https://github.com/ValentinaGonzalezAvila/Proyecto-Sistemas-de-Informaci-n//raw/main/Ingresos_a_Procesos_Administrativos_de_Restablecimiento_de_Derechos__PARD__de_NNA.xlsx")
 datos.info()
 
 Lo siguiente es resolver cada una de las preguntas de la siguiente manera:
 
-# ¿Cuantos ingresos se presentaron en los ultimos 5 años?
+* ¿Cuantos ingresos se presentaron en los ultimos 5 años?
 
 ingresos = datos[datos.AÑO >= 2017].sum()['CANTIDAD_PROCESOS']
 print(ingresos)
 
-# ¿Cuántos ingresos con nacionalidad colombiana y en bogota se tienen en el registro?
+* ¿Cuántos ingresos con nacionalidad colombiana y en bogota se tienen en el registro?
 
 nb = len(datos[(datos.NACIONALIDAD == "COLOMBIANO")&(datos.REGIONAL == "BOGOTA")])
 print(nb)
 
 
-# Mostrar las filas que en la columna CANTIDAD_PROCESOS tengan el valor 48
+* Mostrar las filas que en la columna CANTIDAD_PROCESOS tengan el valor 48
 
 datos[(datos.CANTIDAD_PROCESOS== 48)]
 
-# ¿En la regional de Antioquia cuántos niños fueron registrados?
+* ¿En la regional de Antioquia cuántos niños fueron registrados?
 
 r = datos[(datos.REGIONAL=="ANTIOQUIA")].CANTIDAD_PROCESOS.sum()
 print(r)
 
-# ¿Cuáles son los grupos étnicos que se encuentran en el listado? 
+* ¿Cuáles son los grupos étnicos que se encuentran en el listado? 
 
 datos.groupby("GRUPO_ETNICO").size()
 
