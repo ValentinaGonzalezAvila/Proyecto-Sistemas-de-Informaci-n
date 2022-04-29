@@ -28,6 +28,12 @@ import pandas as pd
 datos = pd.read_excel("https://github.com/ValentinaGonzalezAvila/Proyecto-Sistemas-de-Informaci-n//raw/main/Ingresos_a_Procesos_Administrativos_de_Restablecimiento_de_Derechos__PARD__de_NNA.xlsx")
 datos.info()
 
+
+![image](https://user-images.githubusercontent.com/82173439/166069968-ca3f6fbc-b54b-420c-90c0-c65e6bc01a89.png)
+
+
+
+
 Lo siguiente es resolver cada una de las preguntas de la siguiente manera:
 
 * Mostrar la estadística de los datos
