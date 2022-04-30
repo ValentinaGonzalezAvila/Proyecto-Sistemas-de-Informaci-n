@@ -64,7 +64,6 @@ datos.info()
 
 
 
-
 Lo siguiente es resolver cada una de las preguntas de la siguiente manera:
 
 * Mostrar la estadística de los datos
