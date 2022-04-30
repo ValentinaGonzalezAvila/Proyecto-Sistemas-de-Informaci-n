@@ -1,6 +1,6 @@
 # Proyecto-Sistemas-de-Información
 
-## Tabla de Contenidos
+## Tabla de Contenido
 
 [1. Introducción](#introducción)
 
