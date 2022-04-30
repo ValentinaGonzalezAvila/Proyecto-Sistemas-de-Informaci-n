@@ -169,4 +169,6 @@ Una vez realizamos los dashboards correspondientes en PowerBi, podemos analizar:
                                                                                                                                                                                         
 
 ### 7. Conclusiones
- 
+Con la ayuda de diferentes herramientas como Excel, PowerBi y Python se lograron identificar algunas razones del ingreso de niños al ICBF, logrando evidenciar que la violencia presentada hacia los adolescentes en nuestro país es una de principales razones para el abandono de los niños.
+
+Es necesario que el ICBF genere los datos asociados respecto al grupo étnico en el ingreso de cada niño a la institución, ya que con  los datos generados no se puede identificar el grupo étnico al cual repesenta mayor tasa de abandono en adolescentes, para tomar medidas preventivas hacia estas.
