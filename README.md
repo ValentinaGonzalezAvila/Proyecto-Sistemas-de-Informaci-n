@@ -1,7 +1,7 @@
 # Proyecto-Sistemas-de-Información
 
 ### 1. Introducción
-En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social. Gracias a todo esto con este proyecto queremos validar las reazones de por que los niños entras a estos centros de ayuda infantil del bienestar familiar para la restitucion de sus derechos.
+"En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social". Gracias a todo esto con este proyecto queremos validar las reazones de por que los niños entras a estos centros de ayuda infantil del bienestar familiar para la restitucion de sus derechos.
 
 ### 2. Contexto del problema
 En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social. Muchos de nosotros desconocemos esta situación como comunidad y no somos conscientes de los diferentes motivos del porqué del abandono de niños.
