@@ -1,7 +1,25 @@
 # Proyecto-Sistemas-de-Información
 
+## Tabla de Contenidos
+
+[1. Introducción](#introducción)
+
+[2. Contexto del problema](#contexto-del-problema)
+
+[3. Descripción de la solución](#descripcion-de-la-solucion)
+
+[4. Tecnologías a utilizar](#tecnologias-a-utilizar)
+
+[5. Solución](#solución)
+
+[6. Análisis](#análisis)
+
+[7. Conclusiones](#conclusiones)
+
+
+
 ### 1. Introducción
-"En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social". Gracias a todo esto con este proyecto queremos validar las reazones de por que los niños entras a estos centros de ayuda infantil del bienestar familiar para la restitucion de sus derechos.
+
 
 ### 2. Contexto del problema
 En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social. Muchos de nosotros desconocemos esta situación como comunidad y no somos conscientes de los diferentes motivos del porqué del abandono de niños.
@@ -138,7 +156,7 @@ Luego se realizó un dashboard con la herramienta PowerBI, dando como resultado 
 
 
 
-### Análisis 
+### 6. Análisis 
 
 Una vez realizamos los dashboards correspondientes en PowerBi, podemos analizar:
 
@@ -150,5 +168,5 @@ Una vez realizamos los dashboards correspondientes en PowerBi, podemos analizar:
 * Podemos evidenciar que a lo largo de los años han venido aumentando la cantidad de procesos, pues en el 2012 hubo 31mil, estos vinieron aumentando gradualmente, pero luego en el año 2016 se dispararon a 46mil procesos, este valor se mantuvo hasta el 2018, para luego bajar a 40mil casos en el 2019, se mantuvo igual por el 2020, Pero luego en el año 2021 se dispararon hasta los 55 mil procesos. Esto para un total de 409.617 mil casos en 9 años.
                                                                                                                                                                                         
 
-### Conclusión
+### 7. Conclusiones
  
