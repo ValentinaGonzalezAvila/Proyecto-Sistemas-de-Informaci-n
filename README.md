@@ -20,7 +20,7 @@ Como primera medida se realizarán las <strong>preguntas de negocio</strong> que
 
 ### 4. Tecnologías a utilizar
 
-Con el fín de poder manejar y visualizar de una manera adecuada los datos de la base de datos del ICBF, hemos optado por usar diversas herramientas tecnológicas, como lo son:
+Con el fín de poder manejar y visualizar de una manera adecuada los datos de la base de datos del ICBF, hemos optado por usar diversas herramientas tecnológicas, como lo son:<br>
 <strong>EXCEL: </strong> Usamos ésta herramienta, pues nos permitió visualizar de manera sencilla los datos extraidos de la página (datos.gov.co), y también nos ayudó a limpiar los datos, para posteriormente pasarlos a PowerBi.
 
 <img src="https://user-images.githubusercontent.com/79425510/166080976-d695b78e-d90c-49bc-b1ab-c02d9bcec749.png" width="300">
