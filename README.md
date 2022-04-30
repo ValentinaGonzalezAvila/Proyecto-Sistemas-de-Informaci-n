@@ -36,15 +36,15 @@ Reordenar, dividir y combinar los conjuntos de datos
 Nos permitió trabajar con series temporales
 Todo esto de una manera muy eficiente y facil de entender
 
-<img src="https://user-images.githubusercontent.com/79425510/166082135-70671464-aef3-483e-94f7-70fb44ab717f.png" width="300">
+<img src="https://user-images.githubusercontent.com/79425510/166082135-70671464-aef3-483e-94f7-70fb44ab717f.png" width="500">
 
 <strong>Google Colab: </strong> Esta herramienta nos permitió a nuestro grupo de trabajo, crear un Jupyter Notebook, con el fín de usar Pandas de mánera colaborativa y en tiempo real.
 
-<img src="https://user-images.githubusercontent.com/79425510/166082098-548dbcfb-7c1e-4f14-a208-b01aab78a711.png" width="300">
+<img src="https://user-images.githubusercontent.com/79425510/166082098-548dbcfb-7c1e-4f14-a208-b01aab78a711.png" width="500">
 
 <strong>Github: </strong> Esta herramienta nos permitió subir nuestro proyecto y mantener un control de versiones, todo alojado en la nube
 
-<img src="https://user-images.githubusercontent.com/79425510/166081368-f2fed31c-1fda-4523-bdff-a26e73f2bf22.png" width="300">
+<img src="https://user-images.githubusercontent.com/79425510/166081368-f2fed31c-1fda-4523-bdff-a26e73f2bf22.png" width="400">
 
 ### 5. Solución
 
