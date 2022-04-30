@@ -22,20 +22,28 @@ Como primera medida se realizarán las <strong>preguntas de negocio</strong> que
 
 Con el fín de poder manejar y visualizar de una manera adecuada los datos de la base de datos del ICBF, hemos optado por usar diversas herramientas tecnológicas, como lo son:
 <strong>EXCEL: </strong> Usamos ésta herramienta, pues nos permitió visualizar de manera sencilla los datos extraidos de la página (datos.gov.co), y también nos ayudó a limpiar los datos, para posteriormente pasarlos a PowerBi.
+
 ![image](https://user-images.githubusercontent.com/79425510/166080976-d695b78e-d90c-49bc-b1ab-c02d9bcec749.png)
+
 <strong>PowerBi: </strong> Usamos esta herramienta, pues nos permitió usar los datos para crear dashboards y asi poder analizarlos y entenderlos de una manera mas clara y sencilla.
+
 ![image](https://user-images.githubusercontent.com/79425510/166081204-f088258e-8485-415b-a750-ea44da37fbb6.png)
+
 <strong>Python / Pandas:: </strong> Usamos este lenguaje de programación pues nos permitía usar Pandas, una libreria de Python especializada en el manejo y analísis de estructuras de datos, pues nos ayudó a:
+
 Leer y escribir los ficheros en formato CSV, Excel.
 Reordenar, dividir y combinar los conjuntos de datos
 Nos permitió trabajar con series temporales
 Todo esto de una manera muy eficiente y facil de entender
-![image](https://user-images.githubusercontent.com/79425510/166081221-04671036-447e-42c4-bbd2-e5d72cd0c2a5.png)
-![image](https://user-images.githubusercontent.com/79425510/166081235-c649e77d-5b90-4572-9c3e-5c717970f71b.png)
+
+![image](https://user-images.githubusercontent.com/79425510/166082135-70671464-aef3-483e-94f7-70fb44ab717f.png)
+
 <strong>Google Colab: </strong> Esta herramienta nos permitió a nuestro grupo de trabajo, crear un Jupyter Notebook, con el fín de usar Pandas de mánera colaborativa y en tiempo real.
-![image](https://user-images.githubusercontent.com/79425510/166081268-eb6f546e-1407-402c-a8ff-f1d9851515aa.png) ![image](https://user-images.githubusercontent.com/79425510/166081966-1f2a7854-bc41-4ae6-bf3d-453b8c315dc3.png)
+
+![image](https://user-images.githubusercontent.com/79425510/166082098-548dbcfb-7c1e-4f14-a208-b01aab78a711.png)
 
 <strong>Github: </strong> Esta herramienta nos permitió subir nuestro proyecto y mantener un control de versiones, todo alojado en la nube
+
 ![image](https://user-images.githubusercontent.com/79425510/166081368-f2fed31c-1fda-4523-bdff-a26e73f2bf22.png)
 
 ### 5. Solución
