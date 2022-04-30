@@ -120,5 +120,14 @@ Luego se realizó un dashboard con la herramienta PowerBI, dando como resultado 
 
 ### Análisis 
 
+Una vez realizamos los dashboards correspondientes en PowerBi, podemos analizar:
+
+* Se envidencia que se recibe  14.84% más de niñas 
+* La edad en la que más llegan niños es entre los 12 y 17 años, con el 45.8%, luego le siguen los niños de 6 a 11 años, con el 10.7%, y por último los niños de 0 a 5 años.
+* En cuanto al grupo étnico al que pertenecen los niños que llegan, se puede evidenciar que el 95% de los niños que llegan al Bienestar Familiar no pertenecen a ningun grupo étnico, ó no se registró su información. Por otro lado tenemos que el 2.74% son Afrocolombianos, y el % restante pertenecen a otros grupos étnicos
+* En Bogotá se registran la mayor cantidad de procesos, con un total de 83mil, le sigue el Valle de Cauca, con 56mil , y en tercer lugar se encuentra Antioquia con 23mil procesos.
+* El principal motivo de ingreso es por <strong>Violencia Sexual</strong>, y por <strong>Violencia (Maltrato)</strong>, ambos suman casi 210mil procesos, lo que equivale a la suma de los demas motivos de ingreso, como: Condiciones especiales, Otros motivos, Consumo de sustancias, Amenazas, Trabajo infantil, etc
+
+
 ### Conclusión
  
