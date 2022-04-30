@@ -19,7 +19,10 @@
 
 
 ### 1. Introducción
-En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social. Gracias a todo esto con este proyecto queremos validar las reazones de por que los niños entras a estos centros de ayuda infantil del bienestar familiar para la restitucion de sus derechos.
+El Instituto Colombiano de Bienestar Familiar (ICBF) es la entidad del Estado colombiano que trabaja por la prevención y protección integral de la primera infancia, infancia y adolescencia, el fortalecimiento de los jóvenes y las familias en Colombia, brindando atención especialmente a aquellos en condiciones de amenaza, inobservancia o vulneración de sus derechos, llegando a cerca de 3 millones de colombianos con sus programas, estrategias y servicios de atención con 33 sedes regionales y 215 centros zonales en todo el país.
+
+""En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social."" Gracias a todo esto con este proyecto queremos validar las reazones de por que los niños entras a estos centros de ayuda infantil del bienestar familiar para la restitucion de sus derechos.
+
 
 ### 2. Contexto del problema
 En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social. Muchos de nosotros desconocemos esta situación como comunidad y no somos conscientes de los diferentes motivos del porqué del abandono de niños.
@@ -172,3 +175,5 @@ Una vez realizamos los dashboards correspondientes en PowerBi, podemos analizar:
 Con la ayuda de diferentes herramientas como Excel, PowerBi y Python se lograron identificar algunas razones del ingreso de niños al ICBF, logrando evidenciar que la violencia presentada hacia los adolescentes en nuestro país es una de principales razones para el abandono de los niños.
 
 Es necesario que el ICBF genere los datos asociados respecto al grupo étnico en el ingreso de cada niño a la institución, ya que con  los datos generados no se puede identificar el grupo étnico al cual repesenta mayor tasa de abandono en adolescentes, para tomar medidas preventivas hacia estas.
+
+Esta información es alarmante para nuestra sociedad porque se evidencia el incremento de la violencia, en nuestro país, mas que todo en las ciudades principales y como nuestros niños se estan viendo afectados.
