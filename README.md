@@ -1,7 +1,7 @@
 # Proyecto-Sistemas-de-Información
 
 ### 1. Introducción
-En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social. Gracias a todo esto con este proyecto queremos validar las reazones de por que los niños entras a estos centros de ayuda infantil del bienestar familiar para la restitucion de sus derechos.
+
 
 ### 2. Contexto del problema
 En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social. Muchos de nosotros desconocemos esta situación como comunidad y no somos conscientes de los diferentes motivos del porqué del abandono de niños.
@@ -126,8 +126,9 @@ Una vez realizamos los dashboards correspondientes en PowerBi, podemos analizar:
 * La edad en la que más llegan niños es entre los 12 y 17 años, con el 45.8%, luego le siguen los niños de 6 a 11 años, con el 10.7%, y por último los niños de 0 a 5 años.
 * En cuanto al grupo étnico al que pertenecen los niños que llegan, se puede evidenciar que el 95% de los niños que llegan al Bienestar Familiar no pertenecen a ningun grupo étnico, ó no se registró su información. Por otro lado tenemos que el 2.74% son Afrocolombianos, y el % restante pertenecen a otros grupos étnicos
 * En Bogotá se registran la mayor cantidad de procesos, con un total de 83mil, le sigue el Valle de Cauca, con 56mil , y en tercer lugar se encuentra Antioquia con 23mil procesos.
-* El principal motivo de ingreso es por <strong>Violencia Sexual</strong>, y por <strong>Violencia (Maltrato)</strong>, ambos suman casi 210mil procesos, lo que equivale a la suma de los demas motivos de ingreso, como: Condiciones especiales, Otros motivos, Consumo de sustancias, Amenazas, Trabajo infantil, etc
-
+* El principal motivo de ingreso es por <strong>Violencia Sexual</strong>, y por <strong>Violencia (Maltrato)</strong>, ambos suman casi 210mil procesos, lo que equivale a la suma de los demas motivos de ingreso, como: Condiciones especiales, Otros motivos, Consumo de sustancias, Amenazas, Trabajo infantil, etc.
+* Podemos evidenciar que a lo largo de los años han venido aumentando la cantidad de procesos, pues en el 2012 hubo 31mil, estos vinieron aumentando gradualmente, pero luego en el año 2016 se dispararon a 46mil procesos, este valor se mantuvo hasta el 2018, para luego bajar a 40mil casos en el 2019, se mantuvo igual por el 2020, Pero luego en el año 2021 se dispararon hasta los 55 mil procesos. Esto para un total de 409.617 mil casos en 9 años.
+                                                                                                                                                                                        
 
 ### Conclusión
  
