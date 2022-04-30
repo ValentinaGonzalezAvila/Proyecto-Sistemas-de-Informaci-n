@@ -108,6 +108,23 @@ datos.groupby("GRUPO_ETNICO").size()
 
 ![image](https://user-images.githubusercontent.com/82173439/166074021-fd632f0a-c06a-437c-9650-217d5577c2a5.png)
 
+* ¿Que rango de edad que se encuentran en el registro?
+datos.groupby("RANGO_EDAD").size()
+
+![image](https://user-images.githubusercontent.com/82173439/166088570-1d39cb90-6297-4302-99d7-f5d7eb0aced3.png)
+
+* ¿Cuál es el sexo que más ingresó en el 2021?
+y2021=datos[(datos.AÑO==2021)&((datos.SEXO=="Femenino")|(datos.SEXO=="Masculino"))]
+y2021.groupby("SEXO").size()
+
+![image](https://user-images.githubusercontent.com/82173439/166088829-52d9b9f9-d5ad-4943-8100-58518ab3e0b5.png)
+
+* Mostrar cuál es el principal motivo de ingreso 
+datos.MOTIVO_DE_INGRESO.max()
+
+![image](https://user-images.githubusercontent.com/82173439/166088852-627a0106-ffd7-4236-83e8-fc1fdc2abf86.png)
+
+
 
 Luego se realizó un dashboard con la herramienta PowerBI, dando como resultado lo siguiente:
 
