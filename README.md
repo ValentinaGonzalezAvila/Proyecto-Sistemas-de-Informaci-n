@@ -37,7 +37,7 @@ Como primera medida se realizarán las <strong>preguntas de negocio</strong> que
   4. ¿En la regional de Antioquia cuántos niños fueron registrados?
   5. ¿Cuáles son los grupos étnicos que se encuentran en el listado?
 
-### 4. Tecnologías a utilizar
+### 4. Tecnologías  a utilizar
 
 Con el fín de poder manejar y visualizar de una manera adecuada los datos de la base de datos del ICBF, hemos optado por usar diversas herramientas tecnológicas, como lo son:<br>
 <br><strong>EXCEL: </strong> Usamos ésta herramienta, pues nos permitió visualizar de manera sencilla los datos extraidos de la página (datos.gov.co), y también nos ayudó a limpiar los datos, para posteriormente pasarlos a PowerBi.
@@ -64,6 +64,23 @@ Con el fín de poder manejar y visualizar de una manera adecuada los datos de la
 <br><strong>Github: </strong> Esta herramienta nos permitió subir nuestro proyecto y mantener un control de versiones, todo alojado en la nube
 
 <img src="https://user-images.githubusercontent.com/79425510/166081368-f2fed31c-1fda-4523-bdff-a26e73f2bf22.png" width="400">
+
+<br><strong>Html - Css - Php - Javascript: </strong> Estos fueron los lenguajes de programación utilizados para el desarrollo de nuestra página web.
+
+<img src="![image](https://user-images.githubusercontent.com/79425510/171044062-2ae25836-c360-46ab-b29d-18c72ee1a777.png)" width="500">
+
+
+<br><strong>phpMyAdmin: </strong> Es aplicación que usamos para administrar la base de datos MySQL de forma sencilla y con una interfaz amistosa.
+
+<img src="![image](https://user-images.githubusercontent.com/79425510/171043822-b0e27753-ee6e-4857-b913-a13fc227d772.png)" width="500">
+
+<br><strong>00webhost: </strong> --- Es uno de los hosting web más grandes de la red, éste nos permitió subir nuestra página web de manera gratuita.
+
+<img src="![image](https://user-images.githubusercontent.com/79425510/171043618-3d623219-c60f-4319-a845-fdabb1f47165.png)" width="500">
+
+<br><strong>: </strong> ---
+
+<img src="--" width="500">
 
 ### 5. Solución
 
