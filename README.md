@@ -63,7 +63,7 @@ Con el fín de poder manejar y visualizar de una manera adecuada los datos de la
 
 <br><strong>Github: </strong> Esta herramienta nos permitió subir nuestro proyecto y mantener un control de versiones, todo alojado en la nube
 
-<img src="https://user-images.githubusercontent.com/79425510/166081368-f2fed31c-1fda-4523-bdff-a26e73f2bf22.png" width="400">
+<img src="https://user-images.githubusercontent.com/79425510/171051245-a9d2c006-b563-4576-ab7c-d92d3cbfd73e.png" width="400">
 
 <br><strong>Html - Css - Php - Javascript: </strong> Estos fueron los lenguajes de programación utilizados para el desarrollo de nuestra página web.
 
