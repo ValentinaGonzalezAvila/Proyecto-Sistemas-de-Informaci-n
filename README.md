@@ -38,6 +38,9 @@ Como primera medida se realizarán las <strong>preguntas de negocio</strong> que
   4. ¿En la regional de Antioquia cuántos niños fueron registrados?
   5. ¿Cuáles son los grupos étnicos que se encuentran en el listado?
 
+![image](https://user-images.githubusercontent.com/88067572/171181715-af55f89c-258a-41ca-b2b3-22d706216cd3.png)
+
+
 ya despues de tener las preguntas se registra la informacion en la pagina y nos retorna el dashboard con la cantidad de niños registrados y sus datos especificos y  lo puestra de la siente manera.
 
 ![image](https://user-images.githubusercontent.com/88067572/171181499-2c0e0c79-13bf-40cc-8e56-2850f3357a94.png)
