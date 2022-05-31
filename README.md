@@ -170,6 +170,17 @@ Luego se realizó un dashboard con la herramienta PowerBI, dando como resultado 
 ![image](https://user-images.githubusercontent.com/82173439/166065541-b5869144-a563-47fe-9dbc-d374d25d8156.png)
 
 
+Para finalizar se creo una pagina la cual uno ingresa los datos de la sgeuiten manera
+
+![image](https://user-images.githubusercontent.com/88067572/171093648-69eccc7f-2e76-475b-bafb-c33f8104fd49.png)
+
+y muestra el resgistro en el dashboard de la siguiente manera
+
+![image](https://user-images.githubusercontent.com/88067572/171093786-d34fbc9a-67ae-4ad6-97e0-a4510093d968.png)
+
+
+
+
 
 ### 6. Análisis 
 
