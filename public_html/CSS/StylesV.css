@@ -1,0 +1,107 @@
+
+body {
+  background-image: url("../IMAGENES/f2.jpg");
+  background-repeat:round;
+  background-attachment: fixed;
+}
+
+.form__tvisualizar{
+    background: #2492A1;
+    color:white;
+    padding: 15px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 60px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    font-family:Fuentenueva;
+}
+
+
+.t1 {
+
+    border: 1px solid black;
+  	text-align: center;
+  	padding: 8px;
+    font-weight: lighter;
+    font-weight: bolder;
+    background-color: #6B5ADD;
+    color:white;
+
+}
+
+.table {
+
+    border: 1px solid black;
+  	text-align: center;
+  	padding: 8px;
+    font-weight: lighter;
+    font-weight: bolder;
+}
+th{
+  background-color: #46D7EB;
+}
+
+.a { border-collapse: separate;
+radius:2
+color:black;
+border: 1px solid grey;
+}
+
+
+.contenido {
+background:white;
+color:black;
+border: #3383FF 2px solid;
+text-align: center;
+
+}
+
+.powerbi_container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.powerbi{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+h1{
+
+  color:black;
+  padding: 15px;
+  text-align: center;
+  font-weight: 100;
+  font-size: 40px;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+
+}
+
+input{
+    margin-bottom: 20px;
+    padding: 5.2px;
+    font-size: 16px;
+    border-radius: 15px;
+}
+
+    .menu li {display:inline-block;padding:20px 6.1px; }
+    body {background-color:white}
+    footer {padding:23px; font-size:15px; color:#4A9C61}
+    form { font-family: Fuentenueva;color : snow;}
+    @font-face {
+    font-family: Fuentenueva;
+    src: url("LeochNisa.ttf");}
+    .test {
+    width:300px;
+    Height:90px;
+    }
