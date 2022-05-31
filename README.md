@@ -20,11 +20,12 @@
 
 ### 1. Introducción
 El Instituto Colombiano de Bienestar Familiar (ICBF) es la entidad del Estado colombiano que trabaja por la prevención y protección integral de la primera infancia, y adolescencia, el fortalecimiento de los jóvenes y las familias en Colombia, brindando atención especialmente a aquellos en condiciones de amenaza, inobservancia o vulneración de sus derechos
-Para este proyecto los datos recolectados son del El Instituto Colombiano de Bienestar Familiar (ICBF) en el cual se quiere analizar los casos de abandono en niños y jovenes.
+Para este proyecto los datos recolectados son del El Instituto Colombiano de Bienestar Familiar (ICBF) en el cual se quiere analizar los casos de abandono en niños y jovenes, ya teniendo esos datos se realizo un pagina web.
 
 ### 2. Contexto del problema
 En Colombia, debido a la gran brecha social, tenemos datos alarmantes sobre el abandono de niños, lo cual es muy preocupante ya que esto genera un inmenso impacto en su desarrollo social. Muchos de nosotros desconocemos esta situación como comunidad y no somos conscientes de los diferentes motivos del porqué del abandono de niños.
-Con lo anterior, pretendemos generar conciencia de las diferentes razones por la cuales los niños y adolescentes en Colombia ingresan al Instituto Colombiano de bienestar Familiar (ICBF) y sus variables anexas. Alertando las principales causas y los grupos enfocados donde se deben tomar acciones para que estas cifras sean controladas. 
+Con lo anterior, pretendemos generar conciencia de las diferentes razones por la cuales los niños y adolescentes en Colombia ingresan al Instituto Colombiano de bienestar Familiar (ICBF) y sus variables anexas. Alertando las principales causas y los grupos enfocados donde se deben tomar acciones para que estas cifras sean controladas, para lograr esta concicia se realizo una pagina web la cual todos tienen acceso en la que pueden ingresar los datos del niño o joven creando una dhasdoard con la cantidad de datos o prosesos ingresados para llevar un control mas organizado de los niños y sus ingresos.
+
 ### 3. Descripción de la solución 
 
 A través de un dashboard se realizará un análisis detallado de la base de datos del ICBF obtenida de la página web datos.gov, con el fin de identificar algunas de las razones por las que se presenta el ingreso de menores a estos centros. Con ayuda de las herramientas <strong>PowerBI, Excel y Pyhton(Pandas)</strong>, se podrán mostrar los datos de una forma que permita a cualquier persona hacer una lectura totalmente legible y entendible.
@@ -36,6 +37,11 @@ Como primera medida se realizarán las <strong>preguntas de negocio</strong> que
   3. Mostrar las filas que en la columna CANTIDAD_PROCESOS tengan el valor 48
   4. ¿En la regional de Antioquia cuántos niños fueron registrados?
   5. ¿Cuáles son los grupos étnicos que se encuentran en el listado?
+
+ya despues de tener las preguntas se registra la informacion en la pagina y nos retorna el dashboard con la cantidad de niños registrados y sus datos especificos y  lo puestra de la siente manera.
+
+![image](https://user-images.githubusercontent.com/88067572/171181499-2c0e0c79-13bf-40cc-8e56-2850f3357a94.png)
+
 
 ### 4. Tecnologías  a utilizar
 
