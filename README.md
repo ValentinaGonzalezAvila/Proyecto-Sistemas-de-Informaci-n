@@ -201,3 +201,5 @@ Con la ayuda de diferentes herramientas como Excel, PowerBi y Python se lograron
 Es necesario que el ICBF genere los datos asociados respecto al grupo étnico en el ingreso de cada niño a la institución, ya que con  los datos generados no se puede identificar el grupo étnico al cual repesenta mayor tasa de abandono en adolescentes, para tomar medidas preventivas hacia estas.
 
 Esta información es alarmante para nuestra sociedad porque se evidencia el incremento de la violencia, en nuestro país, mas que todo en las ciudades principales y como nuestros niños se estan viendo afectados.
+
+Con esta página web esperamos darle solución a la problática anteriormente mencionada  y que para todas las personas sea facil registar los casos de violencia y actualizar datos faltantes en la base de datos del ICBF.
